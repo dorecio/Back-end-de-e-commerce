@@ -27,7 +27,7 @@ Requisitos
 
 Enlace al repositorio
 
-*********************************
+https://github.com/dorecio/Back-end-de-e-commerce
 
 Instalación
 
@@ -54,20 +54,23 @@ Instalación
 Después de completar la instalación e iniciar el servidor, se probaran las rutas para obtener la
 información almacenada en la base de datos.
 
-Video demostrativo   *****************
- 
+Video demostrativo   https://watch.screencastify.com/v/VqLMrM8F9QAvT0XrSI78 
 
 ### Ejemplos de uso
 
-Rutas GET para products, Tags y Categories
+Ruta GET para products
 
-Rutas GET por ID para products, Tags y Categories
+![img](/utils/rutas/get.PNG)
 
-Rutas POST para products, Tags y Categories
+Rutas GET por ID para Tags 
 
-Rutas PUT para products, Tags y Categories
+![img](/utils/rutas/getById.PNG)
 
-Rutas DELETE para products, Tags y Categories
+Rutas POST para Categories
+
+![img](/utils/rutas/post.PNG)
+
+
 
 ## Contribuciones
 
@@ -85,11 +88,13 @@ Rutas DELETE para products, Tags y Categories
 
 ## Pruebas
 
-Se capturan nuevos productos, alterando la base de datos original
+Se registran cambios y se reflejan en la base de datos original
 
-![img](/assets/images/pendiente.png)  ***************
+Rutas PUT para products, Tags y Categories
 
-    
+![img](/utils/prueba/img1.PNG)
+![img](/utils/prueba/img2.PNG)
+
 ## Preguntas
 
 [GitHub](https://github.com/dorecio)
